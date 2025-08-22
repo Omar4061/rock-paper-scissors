@@ -29,6 +29,6 @@ This is a simple **Rock Paper Scissors** game implemented in JavaScript as part 
 
 ## Live preview
 
----
+You can play the game [here](https://omar4061.github.io/rock-paper-scissors/).
 
 ✅ This project was built as part of the **JavaScript Foundations** section of [The Odin Project](https://www.theodinproject.com/).
